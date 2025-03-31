@@ -14,8 +14,6 @@
 
 [Assign Python Variables](https://drive.google.com/file/d/1ORpF0hOW_Ce-gsx67EmelycN0_q5nMq-/view?usp=drive_link)
 
-[Activity Debug Python Code](https://drive.google.com/file/d/1-WhkMoR4UPKjhYgsu7a41wz_BZ5iIXhk/view?usp=drive_link)
-
 [Create A Conditional Statement](https://drive.google.com/file/d/1_jRMJZut5QUEAiYJUgDY46T6czDvt-7A/view?usp=drive_link)
 
 [Create Another Algorithm](https://drive.google.com/file/d/1nQkEBrnKF7BM3MTVKIlRkAc1t-CMDkpf/view?usp=drive_link)
