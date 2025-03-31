@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-   👨🏽‍💻 Online Coding Projects 
+   👨🏽‍💻 Online Coding Activities 
 </h3>
 
 <h5 align="center">
