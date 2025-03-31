@@ -9,7 +9,7 @@
 <h5 align="center">
      This Repository Documents My Online Coding Projects, Highlighting My Proficiency In Diverse Technologies. Projects Emphasize Clean, Efficient Code And Problem-Solving, Showcasing My Dedication To Software Development Excellence.
 </h5>
-
+<br>
 
 [Assign Python Variables](https://drive.google.com/file/d/1ORpF0hOW_Ce-gsx67EmelycN0_q5nMq-/view?usp=drive_link)
 
