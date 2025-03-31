@@ -7,7 +7,7 @@
 </h3>
 
 <h5 align="center">
-     This repository documents my online coding projects, highlighting my proficiency in diverse technologies.<br>Projects emphasize clean, efficient code and problem-solving, showcasing my dedication to software development excellence.
+     This Repository Documents My Online Coding Projects, Highlighting My Proficiency In Diverse Technologies. Projects Emphasize Clean, Efficient Code And Problem-Solving, Showcasing My Dedication To Software Development Excellence.
 </h5>
 
 <br>
