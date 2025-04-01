@@ -2,9 +2,9 @@
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
 
-<h3 align="center">
+<h2 align="center">
    👨🏽‍💻 Online Coding Activities 
-</h3>
+</h2>
 
 <h5 align="center">
      This Repository Documents My Online Coding Projects, Highlighting My Proficiency In Diverse Technologies. Here I'll Be Emphasizing Clean, Efficient Code And Intricate Problem-Solving, Showcasing My Dedication To Software Development Learning And Excellence.
