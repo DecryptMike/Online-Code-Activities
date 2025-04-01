@@ -9,6 +9,12 @@
 <h5 align="center">
      This Repository Documents My Online Coding Projects, Highlighting My Proficiency In Diverse Technologies. Here I'll Be Emphasizing Clean, Efficient Code And Intricate Problem-Solving, Showcasing My Dedication To Software Development Learning And Excellence.
 </h5>
+
+## 📄 License
+
+* This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
+* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
+  
 <br>
 
 [Assign Python Variables](https://drive.google.com/file/d/1ORpF0hOW_Ce-gsx67EmelycN0_q5nMq-/view?usp=drive_link)
