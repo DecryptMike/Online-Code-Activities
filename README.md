@@ -1,3 +1,9 @@
+![Built With](https://img.shields.io/badge/Built%20With-Python%203.10-informational?style=flat&logo=python&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue?style=flat)
+![Source](https://img.shields.io/badge/Source-Google%20%26%20IBM%20Certs-yellow?style=flat&logo=google)
+![Activity](https://img.shields.io/badge/Content-Practical%20Labs-green?style=flat)
+![Type](https://img.shields.io/badge/Type-Hands%20On%20Exercises-red?style=flat)
+
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
 </p>
@@ -49,7 +55,10 @@
 
 [Work With Strings In Python](https://drive.google.com/file/d/1zXFDw5aPHg_ycQCdkSfLi4zflOY-Si0F/view?usp=drive_link)
 
+---
 
-
-
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Built%20for-Cybersecurity-blue?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/Made%20By-DecryptMike-limegreen?style=for-the-badge&logo=github"/>
+ <img src="https://img.shields.io/badge/INSPIRED%20BY-GOOGLE%20%26%20IBM%20COURSES-4285F4?style=for-the-badge&logo=google&logoColor=white)"/>
+</p>
