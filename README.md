@@ -3,6 +3,7 @@
 ![Source](https://img.shields.io/badge/Source-Google%20%26%20IBM%20Certs-yellow?style=flat&logo=google)
 ![Activity](https://img.shields.io/badge/Content-Practical%20Labs-green?style=flat)
 ![Type](https://img.shields.io/badge/Type-Hands%20On%20Exercises-red?style=flat)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
