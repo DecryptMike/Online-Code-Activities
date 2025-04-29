@@ -3,7 +3,7 @@
 ![Source](https://img.shields.io/badge/Source-Google%20%26%20IBM%20Certs-yellow?style=flat&logo=google)
 ![Activity](https://img.shields.io/badge/Content-Practical%20Labs-green?style=flat)
 ![Type](https://img.shields.io/badge/Type-Hands%20On%20Exercises-red?style=flat)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/Copyright-©%202025-3f3f46?style=flat&labelColor=3f3f46&color=000000&logo=creativecommons&logoColor=white)
 
 <p align="center">
   <img src="DecryptMikeLogo.png" alt="DecryptMike Logo" style="max-width: 100%; height: auto;"/>
@@ -20,7 +20,6 @@
 ## 📄 License
 
 * This repository is licensed under the (**Default Copyright Law**) which prohibits the redistribution or reuse of its content. <br>
-* However, others are welcome to explore, gain insights, and utilize the materials solely for **personal** learning and reference purposes.
   
 <br>
 
