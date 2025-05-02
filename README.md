@@ -39,7 +39,7 @@
 
 [Develop An Algorithm](https://drive.google.com/file/d/1R90x-gSSOcQRyWrRkRUQzVCq69ysoAdz/view?usp=drive_link)
 
-[Google Data Analytics Capstone Project](https://drive.google.com/file/d/1zXFDw5aPHg_ycQCdkSfLi4zflOY-Si0F/view?usp=drive_link)
+[Google Data Analytics Capstone Project](https://drive.google.com/file/d/1qDGIGR97yVqS_Pwg1xRqoKznLEGAf-EK/view?usp=sharing)
 
 [IBM Capstone Project](https://drive.google.com/file/d/1FsHRQVw3d9squ5nijZH3TNn5wo7ooYSQ/view?usp=drive_link)
 
